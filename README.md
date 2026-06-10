@@ -27,7 +27,9 @@ winget install -e --id Microsoft.VisualStudioCode
 
 ## MinGW
 Link: https://sourceforge.net/projects/mingw/files/Installer/mingw-get-setup.exe/download
+
 *Note: Download will start as soon as you enter the link*
+
 Powershell,
 ```Powershell
 winget install BrechtSanders.WinLibs.POSIX.UCRT
