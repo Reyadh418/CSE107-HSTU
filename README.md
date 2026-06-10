@@ -1,6 +1,7 @@
 # CSE107-HSTU for ECE 26
 
-Here you'll find all the C programs taught in the lab class of CSE107 course. You can view the code here or can download it in your PC.
+Here you'll find all the C programs taught in the lab class of CSE107 course. The homework problems and their solutions will be avaulable here too.
+You can view the code here or can download it in your PC.
 
 # Important Links
 
